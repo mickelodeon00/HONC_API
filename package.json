@@ -18,6 +18,7 @@
     "@fiberplane/hono": "0.5.2",
     "@hono/zod-openapi": "^0.18.4",
     "@neondatabase/serverless": "^0.10.4",
+    "@standard-schema/spec": "^1.0.0",
     "dotenv": "^16.4.7",
     "drizzle-orm": "^0.39.3",
     "drizzle-zod": "^0.7.1",
